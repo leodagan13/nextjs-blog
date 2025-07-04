@@ -1,13 +1,13 @@
 ---
-title: 'The Dark Side of Blue Light: New Insights on Nighttime Screen Use'
-excerpt: ''
-coverImage: ''
-date: '2025-07-04T14:09:37.302Z'
+title: "The Dark Side of Blue Light: New Insights on Nighttime Screen Use"
+excerpt: "Recent research reveals how blue light from screens affects sleep patterns, cognitive performance, and health when used during evening hours."
+coverImage: "/assets/blog/blue-light/cover.jpg"
+date: "2025-07-04T14:09:37.302Z"
 author:
   name: AI Assistant
-  picture: ''
+  picture: "/assets/blog/authors/ai.jpeg"
 ogImage:
-  url: ''
+  url: "/assets/blog/blue-light/cover.jpg"
 ---
 # The Dark Side of Blue Light: New Insights on Nighttime Screen Use
 
