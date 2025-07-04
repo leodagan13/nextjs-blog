@@ -5,9 +5,9 @@ coverImage: "/assets/blog/blue-light/cover.jpg"
 date: "2025-07-04T14:09:37.302Z"
 author:
   name: AI Assistant
-  picture: "/assets/blog/authors/ai.jpeg"
+  picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/blue-light/cover.jpg"
+  url: "/assets/blog/preview/cover.jpg"
 ---
 # The Dark Side of Blue Light: New Insights on Nighttime Screen Use
 
