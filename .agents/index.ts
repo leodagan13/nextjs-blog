@@ -6,7 +6,7 @@ export const agents: AgentConfig[] = [
     "name": "testname",
     "category": "testcategory",
     "role": "tester",
-    "goal": "the prompt contains a number, write this exact amount of time the word \"test\"",
+    "goal": "write a concise blog article about the prompted subject, 200 words max.",
     "backstory": "Helpful AI assistant",
     "tools": [],
     "llm": "anthropic/claude-3-5-sonnet-20241022"
