@@ -3,7 +3,7 @@ import { AgentConfig } from '@/types/agent';
 export const agents: AgentConfig[] = [
   {
     "id": "agent_1751851652568",
-    "name": "testname",
+    "name": "testnamer",
     "category": "testcategory",
     "role": "tester",
     "goal": "the prompt contains a number, write this exact amount of time the word \"test\"",
