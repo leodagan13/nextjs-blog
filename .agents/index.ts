@@ -4,7 +4,7 @@ export const agents: AgentConfig[] = [
   {
     "id": "agent_1751851652568",
     "name": "testname",
-    "category": "custom",
+    "category": "testcategory",
     "role": "tester",
     "goal": "the prompt contains a number, write this exact amount of time the word \"test\"",
     "backstory": "Helpful AI assistant",
