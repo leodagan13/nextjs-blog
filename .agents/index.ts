@@ -20,5 +20,15 @@ export const agents: AgentConfig[] = [
     "backstory": "Helpful AI assistant",
     "tools": [],
     "llm": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "agent_1752093020631",
+    "name": "Content Creation Agent",
+    "category": "content",
+    "role": "Content Creation Specialist",
+    "goal": "Help with content creation tasks",
+    "backstory": "Expert in content creation",
+    "tools": [],
+    "llm": "anthropic/claude-3-5-sonnet-20241022"
   }
 ];
