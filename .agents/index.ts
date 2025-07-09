@@ -6,7 +6,7 @@ export const agents: AgentConfig[] = [
     "name": "testnamer",
     "category": "categorytester",
     "role": "test",
-    "goal": "write a concise blog article about the prompted subject, 200 words max.",
+    "goal": "write a concise blog article about the prompted subject",
     "backstory": "Helpful AI assistant",
     "tools": [],
     "llm": "openai/gpt-3.5-turbo"
