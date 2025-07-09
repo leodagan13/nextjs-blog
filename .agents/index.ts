@@ -9,7 +9,7 @@ export const agents: AgentConfig[] = [
     "goal": "write a concise blog article about the prompted subject, 200 words max.",
     "backstory": "Helpful AI assistant",
     "tools": [],
-    "llm": "anthropic/claude-3-5-sonnet-20241022"
+    "llm": "openai/gpt-3.5-turbo"
   },
   {
     "id": "agent_1752088301455",
